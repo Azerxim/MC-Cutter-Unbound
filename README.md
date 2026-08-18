@@ -1,29 +1,36 @@
 [![Download on CurseForge](https://dl.topazdev.fr/stock/images/web/curseforge.svg)](https://www.curseforge.com/minecraft/customization/extended-stonecutter)
 [![Download on Modrinth](https://dl.topazdev.fr/stock/images/web/modrinth.svg)](https://modrinth.com/datapack/extended-stonecutter)
 
-# Extended Stonecutter
+# ⛏️ Extended Stonecutter
 
-Version: 4.1
+**A full expansion of the stonecutter to cover every stone, copper, and misc. block variant.**
 
-Minecraft: 1.21.2 - 1.21.5
+The vanilla stonecutter is limited to a handful of blocks, and worse, it's **one-directional** (full block → slab/stairs/wall, never back). This data pack fixes both: it adds the missing block families and makes cutting **bidirectional** ("reverse cutting") wherever it makes sense.
 
---------------------------------------------
-# English
-••••••••••••••••••••••
+## ✨ Features
 
-Extension of the stonecutter to handle all variations of many blocks.
+- **Copper**: every variant and oxidation stage, with reverse cutting (turn slabs, stairs or walls back into full blocks).
+- **Deepslate**: reverse cutting across all variants.
+- **Quartz**: reverse cutting included.
+- **Prismarine**: all variants (prismarine, prismarine bricks, dark prismarine), with reverse cutting.
+- **Tuff**: reverse cutting supported.
+- **End Stone**: reverse cutting supported.
+- **Nether Bricks**: reverse cutting supported.
+- **Minecarts**: swap directly between minecart variants at the stonecutter.
+- **Froglights**: convert between all three froglight colors (Verdant, Pearlescent, Ochre) without needing frogs.
+- **Mud**: cutting and reverse cutting for mud, packed mud, mud bricks and their derivatives (slabs, stairs, walls).
 
-Support for minecarts, froglights and mud.
+## 🕹️ How to use
 
---------------------------------------------
-# Français
-••••••••••••••••••••••
+1. Install the data pack into your world's `datapacks` folder (or via `/datapack enable`).
+2. Open a stonecutter as usual.
+3. All new recipes appear automatically, in both directions.
 
-Extention du tailleur de pierre pour prendre en charge toute les déclinaisons de beaucoup de blocs.
+No new blocks or items — purely new recipes, 100% vanilla. Survival- and multiplayer-safe.
 
-Prise en charge des minecarts, lumières de grenouille et de la boue.
+<details>
+<summary>Gallery</summary>
 
---------------------------------------------
 ## Copper (all variants & reverse cutting)
 
 ![copper-cutter](https://raw.githubusercontent.com/Azerxim/MC-Extended-Stonecutter/main/images/copper.png)
@@ -58,3 +65,17 @@ Prise en charge des minecarts, lumières de grenouille et de la boue.
 
 ![froglight](https://raw.githubusercontent.com/Azerxim/MC-Extended-Stonecutter/main/images/froglight.png)
 
+</details>
+
+## 📦 Compatibility
+
+| | |
+|---|---|
+| **Minecraft versions** | 1.19.x · 1.20–1.20.4 · 1.21–1.21.8 |
+| **Type** | Data Pack (no mods required) |
+| **License** | MIT |
+| **Source** | [GitHub](https://github.com/Azerxim/MC-Extended-Stonecutter) |
+
+## 📥 Installation
+
+Like any data pack: drop the downloaded folder into `.minecraft/saves/<your_world>/datapacks/`, then run `/reload` or restart the world.
