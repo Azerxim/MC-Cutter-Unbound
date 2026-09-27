@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 400 400">
+  <rect width="400" height="400" fill="#14172b"/>
+  <!-- Chaîne brisée -->
+  <rect x="10" y="182" width="62" height="36" rx="18" fill="none" stroke="#6b7385" stroke-width="10"/>
+  <rect x="60" y="195" width="46" height="10" rx="5" fill="#6b7385"/>
+  <rect x="328" y="182" width="62" height="36" rx="18" fill="none" stroke="#6b7385" stroke-width="10"/>
+  <rect x="294" y="195" width="46" height="10" rx="5" fill="#6b7385"/>
+  <!-- Lame -->
+  <polygon points="318.0,200.0 292.4,226.1 309.0,245.2 275.4,259.4 283.4,283.4 246.9,283.8 245.2,309.0 211.3,295.3 200.0,318.0 173.9,292.4 154.8,309.0 140.6,275.4 116.6,283.4 116.2,246.9 91.0,245.2 104.7,211.3 82.0,200.0 107.6,173.9 91.0,154.8 124.6,140.6 116.6,116.6 153.1,116.2 154.8,91.0 188.7,104.7 200.0,82.0 226.1,107.6 245.2,91.0 259.4,124.6 283.4,116.6 283.8,153.1 309.0,154.8 295.3,188.7" fill="#d4d8df"/>
+  <circle cx="200" cy="200" r="84" fill="#9aa1ad"/>
+  <circle cx="200" cy="200" r="66" fill="none" stroke="#b9bfca" stroke-width="4"/>
+  <circle cx="200" cy="200" r="28" fill="#2c3040"/>
+  <polygon points="200,186 212,193 212,207 200,214 188,207 188,193" fill="#e0875a"/>
+  <!-- Étincelles -->
+  <rect x="318" y="96" width="12" height="12" fill="#e0875a"/>
+  <rect x="340" y="120" width="8" height="8" fill="#e0875a"/>
+  <rect x="330" y="72" width="8" height="8" fill="#f2c9a8"/>
+  <rect x="64" y="300" width="12" height="12" fill="#e0875a"/>
+  <rect x="52" y="326" width="8" height="8" fill="#f2c9a8"/>
+</svg>

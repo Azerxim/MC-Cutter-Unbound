@@ -1,7 +1,7 @@
 [![Download on CurseForge](https://dl.topazdev.fr/stock/images/web/curseforge.svg)](https://www.curseforge.com/minecraft/customization/extended-stonecutter)
 [![Download on Modrinth](https://dl.topazdev.fr/stock/images/web/modrinth.svg)](https://modrinth.com/datapack/extended-stonecutter)
 
-# ⛏️ Extended Stonecutter
+# ⛏️ Cutter Unbound
 
 **A full expansion of the stonecutter to cover every stone, copper, and misc. block variant.**
 
@@ -71,7 +71,7 @@ No new blocks or items — purely new recipes, 100% vanilla. Survival- and multi
 
 | | |
 |---|---|
-| **Minecraft versions** | 1.19.x · 1.20–1.20.4 · 1.21–1.21.8 |
+| **Minecraft versions** | 1.19.x · 1.20–1.20.4 · 1.21–1.21.8 · 26.3 |
 | **Type** | Data Pack (no mods required) |
 | **License** | MIT |
 | **Source** | [GitHub](https://github.com/Azerxim/MC-Extended-Stonecutter) |
