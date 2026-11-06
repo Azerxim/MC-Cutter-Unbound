@@ -73,9 +73,13 @@ No new blocks or items — purely new recipes, 100% vanilla. Survival- and multi
 |---|---|
 | **Minecraft versions** | 1.19.x · 1.20–1.20.4 · 1.21–1.21.8 · 26.3 |
 | **Type** | Data Pack (no mods required) |
-| **License** | MIT |
+| **License** | All Rights Reserved ([details](LICENSE)) |
 | **Source** | [GitHub](https://github.com/Azerxim/MC-Extended-Stonecutter) |
 
 ## 📥 Installation
 
 Like any data pack: drop the downloaded folder into `.minecraft/saves/<your_world>/datapacks/`, then run `/reload` or restart the world.
+
+## 📄 License
+
+Cutter Unbound © 2023-2026 Azerxim. All rights reserved: you may play with it, use it on servers, add it to modpacks that download it from its official page and show it in videos, but not re-upload it or share a modified version. See [LICENSE](LICENSE) for the details.
